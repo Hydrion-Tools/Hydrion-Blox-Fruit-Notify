@@ -1,0 +1,14 @@
+{
+    "token": "your-acc-token",
+    "webhooks": {
+        "1190483035817255003": "normal-hak-webhook",
+        "1190482921727987735": "leggy-haki-webhook",
+        "1190570953130901534": "leggy-sword-webhook",
+        "1230423385347981335": "full-moon-webhook",
+        "1190482842816356372": "near-full-moon-webhook",
+        "1190570935233814530": "mirage-island-webhook",
+        "1190482703343157408": "kitsune-island-webhook",
+        "1226356041248280596": "raid-boss-webhook",
+        "1190581854185721866": "fruit-webhook"
+    } 
+}
