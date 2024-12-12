@@ -1,3 +1,5 @@
+// for this to work you must join and verify in the server https://discord.gg/nqFj49NDFd
+
 const { Client, Intents } = require('discord.js-selfbot-v13');
 const axios = require('axios');
 const fs = require('fs');
