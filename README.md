@@ -33,7 +33,7 @@ cd Hydrion-S3LFB0T
 Install all required npm packages:
 
 ```bash
-npm install
+npm install discord.js-selfbot-v13@3.4.2 axios
 ```
 
 ### 3. Create the `config.json` File
