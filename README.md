@@ -3,6 +3,8 @@
 
 Welcome to **Hydrion Blox Fruit Notify**, an advanced selfbot for Discord that sends custom notifications and message webhooks based on Discord messages. This bot monitors Discord channels for specific messages, processes them, and then sends them to configured webhooks with enhanced formatting.
 
+## Must join and verify in https://discord.gg/nqFj49NDFd for this to work 
+
 ## Features
 
 - **Custom Webhooks**: Sends messages to configured webhooks for different channels.
